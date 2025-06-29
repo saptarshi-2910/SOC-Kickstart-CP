@@ -5,20 +5,21 @@ This repository contains my work for **SOC Project ID-43: Kickstart CP** as part
 ---
 ### 📁 Folder Structure
 
-SOC-Kickstart-CP/
-├── Week1_CPP_STL_BinarySearch/
-│   ├── README.md
-│   └── <Problem Files>
-├── Week2_Sorting/
-│   ├── README.md
-│   └── <Problem Files>
-├── Week3_DivideAndConquer_Trees/
-│   ├── README.md
-│   └── <Problem Files>
-├── Week4_Graphs/
-│   ├── README.md
-│   └── <Problem Files>
-└── README.md              <- Main README (this file)
+- SOC-Kickstart-CP/
+  - Week1_CPP_STL_BinarySearch/
+    - README.md
+    - <Problem Files>
+  - Week2_Sorting/
+    - README.md
+    - <Problem Files>
+  - Week3_DivideAndConquer_Trees/
+    - README.md
+    - <Problem Files>
+  - Week4_Graphs/
+    - README.md
+    - <Problem Files>
+  - README.md (← Main README file)
+
 
 
 
