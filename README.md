@@ -1,4 +1,4 @@
-# SOC Kickstart CP - Midterm Submission
+# SOC Kickstart CP 
 
 This repository contains my work for **SOC Project ID-43: Kickstart CP** as part of SOC 2025. Over the first four weeks, I completed various coding problems and assignments that helped strengthen my grasp of fundamental Competitive Programming topics using C++.
 
