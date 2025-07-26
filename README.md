@@ -1,26 +1,33 @@
 # SOC Kickstart CP 
 
-This repository contains my work for **SOC Project ID-43: Kickstart CP** as part of SOC 2025. Over the first four weeks, I completed various coding problems and assignments that helped strengthen my grasp of fundamental Competitive Programming topics using C++.
+This repository contains my work for **SOC Project ID-43: Kickstart CP** as part of SOC 2025. Over the first seven weeks, I completed various coding problems and assignments that helped strengthen my grasp of fundamental Competitive Programming topics using C++.
 
 ---
 ### 📁 Folder Structure
 
 - SOC-Kickstart-CP/
-  - Week1_CPP_STL_BinarySearch/
+  - Week1/
     - README.md
     - Problem Files
-  - Week2_Sorting/
+  - Week2/
     - README.md
     - Problem Files
-  - Week3_DivideAndConquer_Trees/
+  - Week3/
     - README.md
     - Problem Files
-  - Week4_Graphs/
+  - Week4/
     - README.md
-    - Problem 
+    - Problem
+  - Week5/
+    - README.md
+    - Problem Files
+  - Week6/
+    - README.md
+    - Problem Files
+  - Week7/
+    - README.md
+    - Problem Files
   - README.md (← Main README file)
-
-
 
 
 Each week's folder contains:
